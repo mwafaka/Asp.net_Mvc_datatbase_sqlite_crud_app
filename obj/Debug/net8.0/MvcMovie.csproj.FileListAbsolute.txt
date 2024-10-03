@@ -275,3 +275,4 @@
 /home/m/Desktop/MvcMovie/obj/Debug/net8.0/MvcMovie.pdb
 /home/m/Desktop/MvcMovie/obj/Debug/net8.0/MvcMovie.genruntimeconfig.cache
 /home/m/Desktop/MvcMovie/obj/Debug/net8.0/ref/MvcMovie.dll
+/home/m/Desktop/MvcMovie/obj/Debug/net8.0/MvcMovie.sourcelink.json
